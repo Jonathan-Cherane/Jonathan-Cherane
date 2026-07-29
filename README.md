@@ -34,4 +34,4 @@ Driven and visionary IT professional in my final year studying a **Bachelor of S
 
 * **LinkedIn:** [Nyengedzo Jonathan Cherane](https://www.linkedin.com/in/nyengedzo-jonathan-cherane-6a272b422)
 * **Website:** [Portfolio Website](https://njcherane.netlify.app/)
-* **Email:** cheranenveneedz083@gmail.com
+* **Email:** njcherane@proton.me
