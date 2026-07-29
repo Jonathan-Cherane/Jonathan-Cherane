@@ -1,4 +1,4 @@
-#Greetings, I'm Nyengedzo Jonathan Cherane 👋
+# Greetings, I'm Nyengedzo Jonathan Cherane 👋
 
 Driven and visionary IT professional in my final year studying a **Bachelor of Science in Information Technology** at North West University. Passionate about leveraging technology to solve complex problems, combining analytical precision with strong leadership.
 
